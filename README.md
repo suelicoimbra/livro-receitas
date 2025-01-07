@@ -1,6 +1,6 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="150px" src="endereco-imagem"></a>
+     <img align="center" width="150px" src="https://www.designi.com.br/images/preview/10415756.jpg"></a>
     <span> Livro de Receitas</span>
 </h1>
 
