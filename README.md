@@ -7,8 +7,8 @@
 ## Indice de receitas
 
 1. Strogonoff de Frango.;
-2. Pavê;
-3. xxxxxxxxxxxxx.;
+2. Bolo de cenoura;
+3. Pavê;
 4. xxxxxx.;
 5. ssssss.;
 6. ssfffff.
