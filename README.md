@@ -7,7 +7,7 @@
 ## Indice de receitas
 
 1. Strogonoff de Frango.;
-2. xxxxxxxxxx.;
+2. Bolo de cenoura;
 3. xxxxxxxxxxxxx.;
 4. xxxxxx.;
 5. ssssss.;
